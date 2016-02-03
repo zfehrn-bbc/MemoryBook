@@ -1,5 +1,7 @@
 # MemoryBook
 
+![Current Version](https://img.shields.io/badge/current-alpha-brightgreen.svg)
+
 Keep your best memories with MemoryBook. Never Forget Moments. App for Android.
 
 ## Screenshots
