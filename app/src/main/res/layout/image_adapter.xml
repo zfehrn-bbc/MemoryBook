@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="115dp"
+    android:layout_height="wrap_content"
+    android:paddingRight="5dp"
+    android:gravity="center_vertical">
+
+    <ImageView
+        android:layout_width="125dp"
+        android:layout_height="100dp"
+        android:id="@+id/imageThumb"
+        android:src="@android:drawable/ic_dialog_email"
+        android:layout_marginLeft="15dp"
+        android:paddingRight="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/dateField"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/imageThumb"
+        android:textSize="14sp"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal" />
+
+</RelativeLayout>

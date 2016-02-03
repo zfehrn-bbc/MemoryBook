@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:support="http://schemas.android.com/apk/res-auto"
+    tools:context="ch.norukh.imagetracker.MainActivity">
+
+    <item
+        android:id="@+id/mapAction"
+        android:icon="@drawable/ic_place"
+        android:title="Map"
+        support:showAsAction="collapseActionView|ifRoom"/>
+
+</menu>
