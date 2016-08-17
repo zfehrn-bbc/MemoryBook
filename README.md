@@ -6,5 +6,6 @@ Keep your best memories with MemoryBook. Never Forget Moments. App for Android.
 
 ## Screenshots
 
-![Main screen](/screenshots/sreen2.png =100x200) ![Show Pictures on Maps](/screenshots/sreen1.png =100x200) ![Delete Pictures](/screenshots/screen3.png =100x200)
-
+<img src="/screenshots/sreen2.png" alt="Main Screen" width="242" height="475"/>
+<img src="/screenshots/sreen1.png" alt="Show Pictures on Maps" width="242" height="475"/>
+<img src="/screenshots/screen3.png" alt="Delete Pictures" width="242" height="475"/>
